@@ -5,19 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-### International Journal (refereed)
+## International Journal (refereed)
 
 1. Takuma Yagi, Takumi Nishiyasu, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato.  GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Hand-Held Lost Objects. ACM Transactions on Interactive Intelligent System (TiiS), December 2022
   
-### International Conference(refereed)
+## International Conference(refereed)
 1. Kristen Grauman, Andrew Westbury, Eugene Byrne, Zachary Chavis, Antonino Furnari, Rohit Girdhar, ..., Takumi Nishiyasu, ... Jitendra Malik. Ego4D: Around the World in 3,000 Hours of Egocentric Video.In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'22). 2022
 2. Takuma Yagi, Takumi Nishiyasu, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato. GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Lost Objects via Hand-Held Object Discovery. In Proceedings of the 26th International Conference on Intelligent User Interfaces (IUI'21). 2021.
 
-### Domestic Conference / Symposium (refereed)
+## Domestic Conference / Symposium (refereed)
 
 1. 西保匠，繁田亮，川原圭博，ビッグロール工法下で設置可能な土壌センサのための薄膜アンテナ設計，マルチメディア，分散協調とモバイルシンポジウム2018(DICOMO2018)，pp.349-355，福井，2018年7月
   
-### Domestic Conference / Symposium (non-refereed)
+## Domestic Conference / Symposium (non-refereed)
     
 1. 西保匠，佐藤洋一，視線と画像の意味的情報の統合モデルによる内部状態推定に向けた検討，第25回画像の認識・理解シンポジウム（一般論文）, 2022年7月
 2. 西保匠，松井勇佑，佐藤洋一，審美性を考慮した画像の凸四角形領域切り出し，第23回画像の認識・理解シンポジウム （一般論文），2020年8月
