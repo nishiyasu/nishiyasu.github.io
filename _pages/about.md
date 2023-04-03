@@ -13,8 +13,15 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 ## Education
 
 * Ph.D in Information Science and Technology, The University of Tokyo, 2024 (expected)
+  * Supervisor: Prof. Yoichi Sato
+
 * M.S. in Information Science and Technology, The University of Tokyo, 2020
+  * Supervisor: Prof. Yoichi Sato
+  * Thesis title: Aesthetic-aware image cropping with convex quadrilaterals (in Japanese)
+
 * B.S. in Engineering, The University of Tokyo, 2018
+  * Supervisor: Prof. Yoshihiro Kawahara
+  * Thisis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
 
 ## Work experience
 
