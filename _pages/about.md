@@ -25,28 +25,23 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 ## Work experience
 
-* Oct. 2022 - PRESENT: Part-time Research Intern 
-  * OMRON SINIC X Corp.
-  * Research on action generation for sports robots.
+* Oct. 2022 - PRESENT: Part-time Research Intern, OMRON SINIC X Corp.
   * Menter: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
+  * Research on action generation for sports robots.
 
 * Oct. 2022 - PRESENT: Part-time Research Intern, CyberAgent Inc. 
-  * CyberAgent Inc.
+  * Creative Research Team, Menter: Dr. Wataru Shimoda
   * Research on automatic image cropping
-  * Creative Research Team, Menter: Dr. Wataru Shimoda
 
-* Aug. 2022 - Sep. 2022: Research Intern
-  * CyberAgent Inc. 
-  * Research on automatic image cropping.
+* Aug. 2022 - Sep. 2022: Research Intern, CyberAgent Inc. 
   * Creative Research Team, Menter: Dr. Wataru Shimoda
+  * Research on automatic image cropping.
  
-* Apr.2020 - Mar.2021: Master Researcher (part-time)
-  * The University of Tokyo
-  * Engaged in research on Ego4D and GO-Finder projects and lab management.
+* Apr.2020 - Mar.2021: Master Researcher (part-time), The University of Tokyo
   * Supervisor: Prof. Yoichi Sato
+  * Engaged in research on Ego4D and GO-Finder projects and lab management.
   
-* Summer 2018: Engineer Intern
-  * Voyage Group Inc.
+* Summer 2018: Engineer Intern, Voyage Group Inc.
   * Engaged in web frontend engineering
   
 ## Awards
