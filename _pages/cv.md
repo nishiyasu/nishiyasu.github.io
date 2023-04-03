@@ -11,21 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, The University of Tokyo, 2018
+* M.S. in Information Science and Technology, The University of Tokyo, 2020
+* Ph.D in Information Science and Technology, The University of Tokyo, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2022 - PRESENT: Part-time Research Intern 
+  * OMRON SINIC X Corp.
+  * Research on action generation for sports robots.
+  * Menter: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2022 - PRESENT: Part-time Research Intern, CyberAgent Inc. 
+  * CyberAgent Inc.
+  * Research on automatic image cropping
+  * Creative Research Team, Menter: Dr. Wataru Shimoda
+
+* Aug. 2022 - Sep. 2022: Research Intern
+  * CyberAgent Inc. 
+  * Research on automatic image cropping.
+  * Creative Research Team, Menter: Dr. Wataru Shimoda
+ 
+* Apr.2020 - Mar.2021: Master Researcher (part-time)
+  * The University of Tokyo
+  * Engaged in research on Ego4D and GO-Finder projects and lab management.
+  * Supervisor: Prof. Yoichi Sato
+  
+* Summer 2018: Engineer Intern
+  * Voyage Group Inc.
+  * Engaged in web frontend engineering
   
 Skills
 ======
@@ -42,18 +56,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
