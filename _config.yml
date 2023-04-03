@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "Takumi Nishiyasu / Takumi Nishiyasu"
+title                    : "Takumi Nishiyasu / （西保　匠）"
 title_separator          : "-"
-name                     : &name "Takumi Nishiyasu"
+name                     : &name "Takumi Nishiyasu / （西保　匠）"
 description              : &description "Ph.D. student at The University of Tokyo"
 url                      : https://nishiyasu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
