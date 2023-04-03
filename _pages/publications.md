@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+
 ======
   * International Journal (refereed)
     * Takuma Yagi, Takumi Nishiyasu, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato.  GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Hand-Held Lost Objects. ACM Transactions on Interactive Intelligent System (TiiS), December 2022
