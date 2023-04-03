@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Graduate School of Information and Science and Technology, the University of Tokyo.  My research focuses on computer vision and human-computer interaction. The final goal of my research is to make machines understand how people feel and think.
+I am a Ph.D. student in the Graduate School of Information and Science and Technology, the University of Tokyo.  My research focuses on computer vision, multimedia understanding, and human-computer interaction. 
 
-News
-======
+
 
