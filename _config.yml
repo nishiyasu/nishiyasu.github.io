@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Takumi Nishiyasu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. student at The University of Tokyo"
+  location         : "Tokyo, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://nisiyasu@iis.u-tokyo.ac.jp"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -175,15 +175,15 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  #teaching:
+    #output: true
+    #permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+    #output: true
+    #permalink: /:collection/:path/
   #talks:
     #output: true
     #permalink: /:collection/:path/
