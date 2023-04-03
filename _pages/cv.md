@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
 * Ph.D in Information Science and Technology, The University of Tokyo, 2024 (expected)
 * M.S. in Information Science and Technology, The University of Tokyo, 2020
 * B.S. in Engineering, The University of Tokyo, 2018
 
-Work experience
+### Work experience
 ======
 * Oct. 2022 - PRESENT: Part-time Research Intern 
   * OMRON SINIC X Corp.
@@ -41,7 +41,7 @@ Work experience
   * Voyage Group Inc.
   * Engaged in web frontend engineering
   
-Awards
+### Awards
 ======
 * Young Researcher Award / DICOMO2018
   * Japanese: ヤングリサーチャ賞 
