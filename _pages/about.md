@@ -25,13 +25,13 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 ## Work experience
 
-* Oct. 2022 - PRESENT: Part-time Research Intern, OMRON SINIC X Corp.
-  * Menter: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
-  * Research on action generation for sports robots.
-
 * Oct. 2022 - PRESENT: Part-time Research Intern, CyberAgent Inc. 
   * Creative Research Team, Menter: Dr. Wataru Shimoda
-  * Research on automatic image cropping
+  * Research on automatic image cropping under design constraints.
+
+* Oct. 2022 - Sep. 2023: Part-time Research Intern, OMRON SINIC X Corp.
+  * Menter: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
+  * Research on action generation for sports robots.
 
 * Aug. 2022 - Sep. 2022: Research Intern, CyberAgent Inc. 
   * Creative Research Team, Menter: Dr. Wataru Shimoda
