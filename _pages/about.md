@@ -12,7 +12,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 ## Education
 
-* Ph.D in Information Science and Technology, The University of Tokyo, 2024 (expected)
+* Ph.D in Information Science and Technology, The University of Tokyo, 2025 (expected)
   * Supervisor: Prof. Yoichi Sato
 
 * M.S. in Information Science and Technology, The University of Tokyo, 2020
@@ -25,7 +25,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 ## Work experience
 
-* Oct. 2022 - PRESENT: Part-time Research Intern, CyberAgent Inc. 
+* Oct. 2022 - Dec. 2023: Part-time Research Intern, CyberAgent Inc. 
   * Creative Research Team, Menter: Dr. Wataru Shimoda
   * Research on automatic image cropping under design constraints.
 
@@ -54,3 +54,6 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
   * Japanese: 優秀論文賞
   * Jun. 2018
 
+## Review
+
+IMWUT,CVPR2024
