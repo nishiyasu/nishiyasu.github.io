@@ -10,7 +10,7 @@ author_profile: true
 1. Takuma Yagi, **Takumi Nishiyasu**, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato.  GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Hand-Held Lost Objects. ACM Transactions on Interactive Intelligent System (TiiS), December 2022
   
 ## International Conference(refereed)
-1. **Takumi Nishiyasu**, Wataru Shimoda, and Yoichi Sato. Image Cropping under Design Constraints. In Proceedings of the 5th ACM International Conference on Multimedia in Asia　(MMAsia’23).　2023
+1. **Takumi Nishiyasu**, Wataru Shimoda, and Yoichi Sato. Image Cropping under Design Constraints. In Proceedings of the 5th ACM International Conference on Multimedia in Asia (MMAsia’23). 2023
 2. Kristen Grauman, Andrew Westbury, Eugene Byrne, Zachary Chavis, Antonino Furnari, Rohit Girdhar, ..., **Takumi Nishiyasu**, ... Jitendra Malik. Ego4D: Around the World in 3,000 Hours of Egocentric Video.In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'22). 2022
 3. Takuma Yagi, **Takumi Nishiyasu**, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato. GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Lost Objects via Hand-Held Object Discovery. In Proceedings of the 26th International Conference on Intelligent User Interfaces (IUI'21). 2021.
 
