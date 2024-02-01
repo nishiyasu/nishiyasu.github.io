@@ -12,7 +12,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 ## Education
 
-* Ph.D in Information Science and Technology, The University of Tokyo, 2025 (expected)
+* Ph.D. in Information Science and Technology, The University of Tokyo, 2025 (expected)
   * Supervisor: Prof. Yoichi Sato
 
 * M.S. in Information Science and Technology, The University of Tokyo, 2020
