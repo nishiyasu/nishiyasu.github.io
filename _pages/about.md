@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Graduate School of Information and Science and Technology, the University of Tokyo.  My research focuses on computer vision, multimedia understanding, and human-computer interaction. 
+I am a Ph.D. student in the Graduate School of Information and Science and Technology, the University of Tokyo.  My research focuses on computer vision, gaze behavior analysis, and multimedia understanding. 
 
 ## Education
 
@@ -21,10 +21,14 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 * B.S. in Engineering, The University of Tokyo, 2018
   * Supervisor: Prof. Yoshihiro Kawahara
-  * Thisis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
+  * Thesis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
 
-## Work experience
+## Research and Work experience
 
+* Apl. 2024 - Present: Visiting PhD researcher, PUI Group in University of Stuttgart
+  * PI: Prof. Dr. Andreas Bulling
+  * Research on human activity analysis and gaze behavior modeling
+  * 
 * Oct. 2022 - Dec. 2023: Part-time Research Intern, CyberAgent Inc. 
   * Creative Research Team, Menter: Dr. Wataru Shimoda
   * Research on automatic image cropping under design constraints.
@@ -37,7 +41,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
   * Creative Research Team, Menter: Dr. Wataru Shimoda
   * Research on automatic image cropping.
  
-* Apr.2020 - Mar.2021: Master Researcher (part-time), The University of Tokyo
+* Apr.2020 - Mar.2021: Master Researcher, The University of Tokyo
   * Supervisor: Prof. Yoichi Sato
   * Engaged in research on Ego4D and GO-Finder projects and lab management.
   
