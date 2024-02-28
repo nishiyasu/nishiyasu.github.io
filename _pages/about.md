@@ -28,7 +28,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 * Apl. 2024 - Present: Visiting PhD researcher, PUI Group in University of Stuttgart
   * PI: Prof. Dr. Andreas Bulling
   * Research on human activity analysis and gaze behavior modeling
-  * 
+  
 * Oct. 2022 - Dec. 2023: Part-time Research Intern, CyberAgent Inc. 
   * Creative Research Team, Menter: Dr. Wataru Shimoda
   * Research on automatic image cropping under design constraints.
@@ -40,7 +40,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 * Aug. 2022 - Sep. 2022: Research Intern, CyberAgent Inc. 
   * Creative Research Team, Menter: Dr. Wataru Shimoda
   * Research on automatic image cropping.
- 
+
 * Apr.2020 - Mar.2021: Master Researcher, The University of Tokyo
   * Supervisor: Prof. Yoichi Sato
   * Engaged in research on Ego4D and GO-Finder projects and lab management.
