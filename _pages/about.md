@@ -25,7 +25,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 ## Research and Work experience
 
-* Apl. 2024 - Present: Visiting PhD researcher, PUI Group in University of Stuttgart
+* Apr. 2024 - Present: Visiting PhD researcher, PUI Group in University of Stuttgart
   * PI: Prof. Dr. Andreas Bulling
   * Research on human activity analysis and gaze behavior modeling
   
