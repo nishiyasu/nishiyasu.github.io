@@ -50,6 +50,9 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
   
 ## Awards
 
+* Best Poster Award / GAZE2024 (CVPRW)
+  * Jun. 2024
+    
 * Young Researcher Award / DICOMO2018
   * Japanese: ヤングリサーチャ賞 
   * Jun. 2018
