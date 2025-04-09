@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Journal (refereed)
 
-1.(in submission)
+1. (in submission)
 2. Kristen Grauman, Andrew Westbury, Eugene Byrne, Zachary Chavis, Antonino Furnari, Rohit Girdhar, ..., **Takumi Nishiyasu**, ... Jitendra Malik. "Ego4D: Around the World in 3,000 Hours of Egocentric Video," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.
 3. Takuma Yagi, **Takumi Nishiyasu**, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato.  GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Hand-Held Lost Objects. ACM Transactions on Interactive Intelligent System (TiiS), December 2022
   
