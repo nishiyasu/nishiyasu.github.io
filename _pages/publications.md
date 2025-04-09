@@ -7,14 +7,16 @@ author_profile: true
 
 ## International Journal (refereed)
 
-1. Kristen Grauman, Andrew Westbury, Eugene Byrne, Zachary Chavis, Antonino Furnari, Rohit Girdhar, ..., **Takumi Nishiyasu**, ... Jitendra Malik. "Ego4D: Around the World in 3,000 Hours of Egocentric Video," to appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.
-2. Takuma Yagi, **Takumi Nishiyasu**, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato.  GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Hand-Held Lost Objects. ACM Transactions on Interactive Intelligent System (TiiS), December 2022
+1.(in submission)
+2. Kristen Grauman, Andrew Westbury, Eugene Byrne, Zachary Chavis, Antonino Furnari, Rohit Girdhar, ..., **Takumi Nishiyasu**, ... Jitendra Malik. "Ego4D: Around the World in 3,000 Hours of Egocentric Video," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.
+3. Takuma Yagi, **Takumi Nishiyasu**, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato.  GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Hand-Held Lost Objects. ACM Transactions on Interactive Intelligent System (TiiS), December 2022
   
 ## International Conference(refereed)
-1. **Takumi Nishiyasu** and Yoichi Sato. "Gaze Scanpath Transformer: Predicting Visual Search Target by Spatiotemporal Semantic Modeling of Gaze Scanpath", In the 6th International Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2024) (in conjunction with CVPR'24). 2024
-2. **Takumi Nishiyasu**, Wataru Shimoda, and Yoichi Sato. Image Cropping under Design Constraints. In Proceedings of the 5th ACM International Conference on Multimedia in Asia (MMAsia’23). 2023
-3. Kristen Grauman, Andrew Westbury, Eugene Byrne, Zachary Chavis, Antonino Furnari, Rohit Girdhar, ..., **Takumi Nishiyasu**, ... Jitendra Malik. Ego4D: Around the World in 3,000 Hours of Egocentric Video.In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'22). 2022
-4. Takuma Yagi, **Takumi Nishiyasu**, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato. GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Lost Objects via Hand-Held Object Discovery. In Proceedings of the 26th International Conference on Intelligent User Interfaces (IUI'21). 2021.
+1. **Takumi Nishiyasu**, Tobias Kostorz, Yao Wang, Yoichi Sato, and Andreas Bulling. “ChartQC: Question Classification from Human Attention Data on Charts”, In the 9th Workshop on Eye Tracking and Visualization (ETVIS) (in conjunction with ETRA2025). 2025
+2. **Takumi Nishiyasu** and Yoichi Sato. "Gaze Scanpath Transformer: Predicting Visual Search Target by Spatiotemporal Semantic Modeling of Gaze Scanpath", In the 6th International Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2024) (in conjunction with CVPR'24). 2024
+3. **Takumi Nishiyasu**, Wataru Shimoda, and Yoichi Sato. Image Cropping under Design Constraints. In Proceedings of the 5th ACM International Conference on Multimedia in Asia (MMAsia’23). 2023
+4. Kristen Grauman, Andrew Westbury, Eugene Byrne, Zachary Chavis, Antonino Furnari, Rohit Girdhar, ..., **Takumi Nishiyasu**, ... Jitendra Malik. Ego4D: Around the World in 3,000 Hours of Egocentric Video.In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'22). 2022
+5. Takuma Yagi, **Takumi Nishiyasu**, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato. GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Lost Objects via Hand-Held Object Discovery. In Proceedings of the 26th International Conference on Intelligent User Interfaces (IUI'21). 2021.
 
 ## Domestic Conference / Symposium (refereed)
 
