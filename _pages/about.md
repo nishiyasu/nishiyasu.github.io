@@ -14,6 +14,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 * Ph.D. in Information Science and Technology, The University of Tokyo, 2026 (expected)
   * Supervisor: Prof. Yoichi Sato
+  * Thesis title (tentative): Understanding the Relationship between Task and Gaze
 
 * M.S. in Information Science and Technology, The University of Tokyo, 2020
   * Supervisor: Prof. Yoichi Sato
@@ -25,27 +26,37 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 ## Research and Work experience
 
-* Apr. 2024 - Oct. 2024: Visiting PhD researcher, PUI Group in University of Stuttgart
+* Engineer Intern, Mantra Inc.
+  * Dec. 2025  - PRESENT,  Tokyo, Japan
+  * Contributed to the development of the Mantra Engine.
+  
+* Visiting PhD researcher, PUI Group in University of Stuttgart
+  * Apr. 2024 - Oct. 2024
   * PI: Prof. Dr. Andreas Bulling
   * Research on human activity analysis and gaze behavior modeling
   
-* Oct. 2022 - Dec. 2023: Part-time Research Intern, CyberAgent Inc. 
-  * Creative Research Team, Menter: Dr. Wataru Shimoda
+* Part-time Research Intern, CyberAgent Inc. 
+  * Oct. 2022 - Dec. 2023
+  * Creative Research Team, Mentor: Dr. Wataru Shimoda
   * Research on automatic image cropping under design constraints.
 
-* Oct. 2022 - Sep. 2023: Part-time Research Intern, OMRON SINIC X Corp.
+* Part-time Research Intern, OMRON SINIC X Corp.
+  * Oct. 2022 - Sep. 2023
   * Menter: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
   * Research on action generation for sports robots.
 
-* Aug. 2022 - Sep. 2022: Research Intern, CyberAgent Inc. 
-  * Creative Research Team, Menter: Dr. Wataru Shimoda
+* Research Intern, CyberAgent Inc.
+  * Aug. 2022 - Sep. 2022
+  * Creative Research Team, Mentor: Dr. Wataru Shimoda
   * Research on automatic image cropping.
 
-* Apr.2020 - Mar.2021: Master Researcher, The University of Tokyo
+* Master Researcher, The University of Tokyo
+  * Apr. 2020 - Mar. 2021
   * Supervisor: Prof. Yoichi Sato
   * Engaged in research on Ego4D and GO-Finder projects and lab management.
   
-* Summer 2018: Engineer Intern, Voyage Group Inc.
+* Engineer Intern, Voyage Group Inc.
+  * Aug. 2018
   * Engaged in web frontend engineering
   
 ## Awards
