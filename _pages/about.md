@@ -12,50 +12,50 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 ## Education
 
-* Ph.D. in Information Science and Technology, The University of Tokyo, 2026 (expected)
+**Ph.D. in Information Science and Technology, The University of Tokyo, 2026 (expected)**
   * Supervisor: Prof. Yoichi Sato
   * Thesis title (tentative): Understanding the Relationship between Task and Gaze
 
-* M.S. in Information Science and Technology, The University of Tokyo, 2020
+**M.S. in Information Science and Technology, The University of Tokyo, 2020**
   * Supervisor: Prof. Yoichi Sato
   * Thesis title: Aesthetic-aware image cropping with convex quadrilaterals (in Japanese)
 
-* B.S. in Engineering, The University of Tokyo, 2018
+**B.S. in Engineering, The University of Tokyo, 2018**
   * Supervisor: Prof. Yoshihiro Kawahara
   * Thesis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
 
 ## Research and Work experience
 
-* Engineer Intern, Mantra Inc.
+**Engineer Intern, Mantra Inc.**
   * Dec. 2025  - PRESENT,  Tokyo, Japan
   * Contributed to the development of the Mantra Engine.
     
-* Visiting PhD researcher, PUI Group in University of Stuttgart
+**Visiting PhD researcher, PUI Group in University of Stuttgart**
   * Apr. 2024 - Oct. 2024, Stuttgart, Germany
   * PI: Prof. Dr. Andreas Bulling
   * Research on human activity analysis and gaze behavior modeling
     
-* Part-time Research Intern, CyberAgent Inc. 
+**Part-time Research Intern, CyberAgent Inc.**
   * Oct. 2022 - Dec. 2023, Tokyo, Japan
   * Creative Research Team, Mentor: Dr. Wataru Shimoda
   * Research on automatic image cropping under design constraints.
 
-* Part-time Research Intern, OMRON SINIC X Corp.
+**Part-time Research Intern, OMRON SINIC X Corp.**
   * Oct. 2022 - Sep. 2023, Tokyo, Japan
   * Menter: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
   * Research on action generation for sports robots.
 
-* Research Intern, CyberAgent Inc.
+**Research Intern, CyberAgent Inc.**
   * Aug. 2022 - Sep. 2022, Tokyo, Japan
   * Creative Research Team, Mentor: Dr. Wataru Shimoda
   * Research on automatic image cropping.
 
-* Master Researcher, The University of Tokyo
+**Master Researcher, The University of Tokyo**
   * Apr. 2020 - Mar. 2021, Tokyo, Japan
   * Supervisor: Prof. Yoichi Sato
   * Contributed to research on Ego4D and GO-Finder projects and lab management.
   
-* Engineer Intern, Voyage Group Inc.
+**Engineer Intern, Voyage Group Inc.**
   * Aug. 2018, Tokyo, Japan
   * Engaged in web frontend engineering
     
