@@ -31,32 +31,32 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
   * Contributed to the development of the Mantra Engine.
     
 * Visiting PhD researcher, PUI Group in University of Stuttgart
-  * Apr. 2024 - Oct. 2024
+  * Apr. 2024 - Oct. 2024, Stuttgart, Germany
   * PI: Prof. Dr. Andreas Bulling
   * Research on human activity analysis and gaze behavior modeling
     
 * Part-time Research Intern, CyberAgent Inc. 
-  * Oct. 2022 - Dec. 2023
+  * Oct. 2022 - Dec. 2023, Tokyo, Japan
   * Creative Research Team, Mentor: Dr. Wataru Shimoda
   * Research on automatic image cropping under design constraints.
 
 * Part-time Research Intern, OMRON SINIC X Corp.
-  * Oct. 2022 - Sep. 2023
+  * Oct. 2022 - Sep. 2023, Tokyo, Japan
   * Menter: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
   * Research on action generation for sports robots.
 
 * Research Intern, CyberAgent Inc.
-  * Aug. 2022 - Sep. 2022
+  * Aug. 2022 - Sep. 2022, Tokyo, Japan
   * Creative Research Team, Mentor: Dr. Wataru Shimoda
   * Research on automatic image cropping.
 
 * Master Researcher, The University of Tokyo
-  * Apr. 2020 - Mar. 2021
+  * Apr. 2020 - Mar. 2021, Tokyo, Japan
   * Supervisor: Prof. Yoichi Sato
-  * Engaged in research on Ego4D and GO-Finder projects and lab management.
+  * Contributed to research on Ego4D and GO-Finder projects and lab management.
   
 * Engineer Intern, Voyage Group Inc.
-  * Aug. 2018
+  * Aug. 2018, Tokyo, Japan
   * Engaged in web frontend engineering
     
 ## Awards
