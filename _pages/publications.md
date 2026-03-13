@@ -26,8 +26,8 @@ author_profile: true
   
 ## Domestic Conference / Symposium (non-refereed)
     
-1. **Takumi Nishiyasu**, Zhiming Hu, Jiawei Qin, Andreas Bulling, Yoichi Sato, Learning Alignments of Human Gaze and Fine-grained Task Descriptions,第28回画像の認識・理解シンポジウム（一般論文）, 2025年7月.
-2. **Takumi Nishiyasu**, Wataru Shimoda, Yoichi Sato, Multiple Conditioned Image Cropping,第26回画像の認識・理解シンポジウム（一般論文）,2023年7月
+1. **Takumi Nishiyasu**, Zhiming Hu, Jiawei Qin, Andreas Bulling, Yoichi Sato, Learning Alignments of Human Gaze and Fine-grained Task Descriptions, 第28回画像の認識・理解シンポジウム（一般論文）, 2025年7月.
+2. **Takumi Nishiyasu**, Wataru Shimoda, Yoichi Sato, Multiple Conditioned Image Cropping, 第26回画像の認識・理解シンポジウム（一般論文）,2023年7月
 3. **西保匠**，佐藤洋一，視線と画像の意味的情報の統合モデルによる内部状態推定に向けた検討，第25回画像の認識・理解シンポジウム（一般論文）, 2022年7月
 4. **西保匠**，松井勇佑，佐藤洋一，審美性を考慮した画像の凸四角形領域切り出し，第23回画像の認識・理解シンポジウム （一般論文），2020年8月
 5. **西保匠**，繁田亮，川原圭博，芝管理用埋没設置型センサにおける920MHz帯IEEE802.15.4gの通信安定性評価，知的環境とセンサネットワーク研究会 (ASN)，pp.29-33，山形，2017年11月
