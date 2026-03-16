@@ -14,7 +14,7 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
 
 **Ph.D. in Information Science and Technology, The University of Tokyo, 2026 (expected)**
   * Supervisor: Prof. Yoichi Sato
-  * Thesis title (tentative): Understanding the Relationship between Task and Gaze
+  * Thesis title (tentative): Multi-Layered Alignment for Understanding the Relationship between Task and Gaze
 
 **M.S. in Information Science and Technology, The University of Tokyo, 2020**
   * Supervisor: Prof. Yoichi Sato
@@ -72,7 +72,8 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
   * Japanese: 優秀論文賞
   * Jun. 2018
 
-## Review
 
-ETVIS2025, CVPR2025, IJCV, IMWUT, CVPR2024
+### Review
+
+ETRA2025, ETVIS2025, CVPR2025, IJCV, IMWUT, CVPR2024
 
