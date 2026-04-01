@@ -74,6 +74,6 @@ Takumi Nishiyasu is a Researcher at Mantra Inc. and a Cooperative Research Fello
 
 ### Reviewing Activities
 
-* Conferences: CVPR (2024, 2025), ETRA 2025, ETVIS 2025
+* Conferences: CVPR (2024, 2025), ETRA 2026, ETVIS 2025
 * Journals: IJCV, IMWUT (PACM IMWUT)
 
