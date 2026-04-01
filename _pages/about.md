@@ -25,25 +25,25 @@ Takumi Nishiyasu is a Cooperative Research Fellow at the Institute of Industrial
   * Thesis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
 
 ## Research and Professional Experience
-**Engineering Intern, Mantra Inc., Tokyo, Japan, Dec. 2025 – Present**
+**Engineering Intern, Mantra Inc., Dec. 2025 – Present**
 * Developing "Mantra Engine" for automated manga translation.
 
 **Visiting Ph.D. Researcher, PUI Group, University of Stuttgart, Germany, Apr. 2024 – Oct. 2024**
 * PI: Prof. Dr. Andreas Bulling
 * Research on human activity analysis and gaze behavior modeling.
 
-**Research Intern, CyberAgent Inc., Tokyo, Japan, Aug. 2022 - Dec. 2023**
+**Research Intern, CyberAgent Inc., Aug. 2022 - Dec. 2023**
 * Mentor: Dr. Wataru Shimoda (Creative Research Team)
 * Researched automatic image cropping under various design constraints.
 
-**Research Intern, OMRON SINIC X Corp., Tokyo, Japan, Oct. 2022 – Sep. 2023**
+**Research Intern, OMRON SINIC X Corp., Oct. 2022 – Sep. 2023**
 * Mentors: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
 * Researched action generation and behavioral modeling for sports robots.
 
-**Master Researcher, The University of Tokyo, Tokyo, Japan, Apr. 2020 – Mar. 2021** 
+**Master Researcher, The University of Tokyo, Apr. 2020 – Mar. 2021** 
 * Contributed to the Ego4D and GO-Finder projects and lab management.
 
-**Engineering Intern, VOYAGE GROUP Inc. (now CARTA HOLDINGS), Tokyo, Japan, Aug. 2018**
+**Engineering Intern, VOYAGE GROUP Inc. (now CARTA HOLDINGS), Aug. 2018**
 * Engaged in web front-end development and system engineering.
 
 ## Selected Publications
