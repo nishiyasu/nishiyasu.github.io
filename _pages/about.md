@@ -25,7 +25,7 @@ Takumi Nishiyasu is a Researcher at Mantra Inc. and a Cooperative Research Fello
   * Thesis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
 
 ## Research and Professional Experience
-**Cooperative Research Fellow, Institute of Industrial Science, The University of Tokyo, Apr. 2026 – Present**
+**Cooperative Research Fellow, The University of Tokyo, Apr. 2026 – Present**
 * Collaborative research on human gaze and computer vision within the Yoichi Sato Laboratory.
 
 **Researcher, Mantra Inc., Dec. 2025 – Present**
