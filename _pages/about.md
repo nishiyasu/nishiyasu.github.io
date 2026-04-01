@@ -62,9 +62,13 @@ Takumi Nishiyasu is a Cooperative Research Fellow at the Institute of Industrial
 
 
 ## Academic Services
+
 ### Organizing Committee
+
 * Web Chair, ACM Symposium on Eye Tracking Research & Applications (ETRA), 2025
+
 ### Reviewing Activities
+
 * Conferences: CVPR (2024, 2025), ETRA 2025, ETVIS 2025
 * Journals: IJCV, IMWUT (PACM IMWUT)
 
