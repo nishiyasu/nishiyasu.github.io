@@ -32,8 +32,7 @@ Takumi Nishiyasu is a Cooperative Research Fellow at the Institute of Industrial
 * PI: Prof. Dr. Andreas Bulling
 * Research on human activity analysis and gaze behavior modeling.
 
-**Research Intern, CyberAgent Inc., Tokyo, Japan**
-* Part-time: Oct. 2022 – Dec. 2023 | Full-time: Aug. 2022 – Sep. 2022
+**Research Intern, CyberAgent Inc., Tokyo, Japan, Aug. 2022 - Dec. 2023**
 * Mentor: Dr. Wataru Shimoda (Creative Research Team)
 * Researched automatic image cropping under various design constraints.
 
