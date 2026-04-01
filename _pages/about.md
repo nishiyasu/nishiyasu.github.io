@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Graduate School of Information and Science and Technology, the University of Tokyo.  My research focuses on computer vision, gaze behavior analysis, and multimedia understanding. 
+Takumi Nishiyasu is a Cooperative Research Fellow at the Institute of Industrial Science, The University of Tokyo. His research focuses on computer vision, gaze behavior analysis, and multimedia understanding.
 
 ## Education
 
@@ -24,56 +24,48 @@ I am a Ph.D. student in the Graduate School of Information and Science and Techn
   * Supervisor: Prof. Yoshihiro Kawahara
   * Thesis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
 
-## Research and Work experience
+## Research and Professional Experience
+**Engineering Intern, Mantra Inc., Tokyo, Japan, Dec. 2025 – Present**
+* Developing "Mantra Engine" for automated manga translation.
 
-**Engineer Intern, Mantra Inc.**
-  * Dec. 2025  - PRESENT,  Tokyo, Japan
-  * Contributed to the development of the Mantra Engine.
-    
-**Visiting PhD researcher, PUI Group in University of Stuttgart**
-  * Apr. 2024 - Oct. 2024, Stuttgart, Germany
-  * PI: Prof. Dr. Andreas Bulling
-  * Research on human activity analysis and gaze behavior modeling
-    
-**Part-time Research Intern, CyberAgent Inc.**
-  * Oct. 2022 - Dec. 2023, Tokyo, Japan
-  * Creative Research Team, Mentor: Dr. Wataru Shimoda
-  * Research on automatic image cropping under design constraints.
+**Visiting Ph.D. Researcher, PUI Group, University of Stuttgart, Germany, Apr. 2024 – Oct. 2024**
+* PI: Prof. Dr. Andreas Bulling
+* Research on human activity analysis and gaze behavior modeling.
 
-**Part-time Research Intern, OMRON SINIC X Corp.**
-  * Oct. 2022 - Sep. 2023, Tokyo, Japan
-  * Menter: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
-  * Research on action generation for sports robots.
+**Research Intern, CyberAgent Inc., Tokyo, Japan**
+* Part-time: Oct. 2022 – Dec. 2023 | Full-time: Aug. 2022 – Sep. 2022
+* Mentor: Dr. Wataru Shimoda (Creative Research Team)
+* Researched automatic image cropping under various design constraints.
 
-**Research Intern, CyberAgent Inc.**
-  * Aug. 2022 - Sep. 2022, Tokyo, Japan
-  * Creative Research Team, Mentor: Dr. Wataru Shimoda
-  * Research on automatic image cropping.
+**Research Intern, OMRON SINIC X Corp., Tokyo, Japan, Oct. 2022 – Sep. 2023**
+* Mentors: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
+* Researched action generation and behavioral modeling for sports robots.
 
-**Master Researcher, The University of Tokyo**
-  * Apr. 2020 - Mar. 2021, Tokyo, Japan
-  * Supervisor: Prof. Yoichi Sato
-  * Contributed to research on Ego4D and GO-Finder projects and lab management.
+**Master Researcher, The University of Tokyo, Tokyo, Japan, Apr. 2020 – Mar. 2021** 
+* Contributed to the Ego4D and GO-Finder projects and lab management.
+
+**Engineering Intern, VOYAGE GROUP Inc. (now CARTA HOLDINGS), Tokyo, Japan, Aug. 2018**
+* Engaged in web front-end development and system engineering.
+
+## Selected Publications
+
+* **Takumi Nishiyasu** and Yoichi Sato. "Gaze-to-Task Inference in Chart Reading: Best Practices for Integrating Human Attention with Multimodal LLMs." Proc. ACM Comput. Graph. Interact. Tech. (PACMCGIT), Vol. 9, No. 2 (ETRA 2026), 2026.
+* **Takumi Nishiyasu**, Zhiming Hu, and Andreas Bulling. "Learning Alignments of Human Gaze and Fine-grained Task Descriptions." Proc. ACM Comput. Graph. Interact. Tech. (PACMCGIT), Vol. 9, No. 2 (ETRA 2026), 2026.
+* **Takumi Nishiyasu** and Yoichi Sato. "Gaze Scanpath Transformer: Predicting Visual Search Target by Spatiotemporal Semantic Modeling of Gaze Scanpath." Proc. CVPR Workshops (GAZE 2024), 2024.
+* Kristen Grauman, ..., **Takumi Nishiyasu**, ..., and Jitendra Malik. "Ego4D: Around the World in 3,000 Hours of Egocentric Video." Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+* Takuma Yagi, **Takumi Nishiyasu**, Kunimasa Kawasaki, Moe Matsuki, and Yoichi Sato. "GO-Finder: Registration-Free Wearable System for Assisting Users in Finding Lost Objects via Hand-Held Object Discovery." Proc. 26th International Conference on Intelligent User Interfaces (IUI), 2021.
   
-**Engineer Intern, Voyage Group Inc.**
-  * Aug. 2018, Tokyo, Japan
-  * Engaged in web frontend engineering
-    
 ## Awards
 
-* Best Poster Award / GAZE2024 (CVPRW)
-  * Jun. 2024
-    
-* Young Researcher Award / DICOMO2018
-  * Japanese: ヤングリサーチャ賞 
-  * Jun. 2018
-
-* Excellent Paper Award/ DICOMO2018
-  * Japanese: 優秀論文賞
-  * Jun. 2018
+* Best Poster Award, GAZE 2024 (CVPR Workshop), 2024  
+* Young Researcher Award (ヤングリサーチャ賞)/ DICOMO2018
+* Excellent Paper Award (優秀論文賞)/ DICOMO2018
 
 
-### Review
-
-ETRA2025, ETVIS2025, CVPR2025, IJCV, IMWUT, CVPR2024
+## Academic Services
+### Organizing Committee
+* Web Chair, ACM Symposium on Eye Tracking Research & Applications (ETRA), 2025
+### Reviewing Activities
+* Conferences: CVPR (2024, 2025), ETRA 2025, ETVIS 2025
+* Journals: IJCV, IMWUT (PACM IMWUT)
 
