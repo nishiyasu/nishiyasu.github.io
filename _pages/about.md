@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Takumi Nishiyasu is a Cooperative Research Fellow at the Institute of Industrial Science, The University of Tokyo. His research focuses on computer vision, gaze behavior analysis, and multimedia understanding.
+Takumi Nishiyasu is a Researcher at Mantra Inc. and a Cooperative Research Fellow at the University of Tokyo (Yoichi Sato Laboratory). His research focuses on computer vision, gaze behavior analysis, and multimedia understanding.
 
 ## Education
 
@@ -25,7 +25,10 @@ Takumi Nishiyasu is a Cooperative Research Fellow at the Institute of Industrial
   * Thesis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
 
 ## Research and Professional Experience
-**Engineering Intern, Mantra Inc., Dec. 2025 – Present**
+**Cooperative Research Fellow, Institute of Industrial Science, The University of Tokyo, Apr. 2026 – Present**
+* Collaborative research on human gaze and computer vision within the Yoichi Sato Laboratory.
+
+**Researcher, Mantra Inc., Dec. 2025 – Present**
 * Developing "Mantra Engine" for automated manga translation.
 
 **Visiting Ph.D. Researcher, PUI Group, University of Stuttgart, Apr. 2024 – Oct. 2024**
