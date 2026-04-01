@@ -12,44 +12,31 @@ Takumi Nishiyasu is a Researcher at Mantra Inc. and a Cooperative Research Fello
 
 ## Education
 
-**Ph.D. in Information Science and Technology, The University of Tokyo, 2026**
-  * Completed doctoral course requirements without dissertation, Mar. 2026
-  * Degree Expected: July 2026 (Dissertation defense scheduled)
-  * Supervisor: Prof. Yoichi Sato
-  * Thesis title (tentative): Multi-Layered Alignment for Understanding the Relationship between Task and Gaze
-
-**M.S. in Information Science and Technology, The University of Tokyo, 2020**
-  * Supervisor: Prof. Yoichi Sato
-  * Thesis title: Aesthetic-aware image cropping with convex quadrilaterals (in Japanese)
-
-**B.S. in Engineering, The University of Tokyo, 2018**
-  * Supervisor: Prof. Yoshihiro Kawahara
-  * Thesis title: Design of Thin Film Antenna for Soil Sensor with Big-Roll Method Leveraged Installation( in Japanese)
+* **[2026.07 (Expected)]** Ph.D. in Information Science and Technology, The University of Tokyo
+    * **[2026.03]** Completed doctoral course requirements without dissertation
+    * Supervisor: Prof. Yoichi Sato
+    * Thesis: *Multi-Layered Alignment for Understanding the Relationship between Task and Gaze*
+* **[2020.03]** M.S. in Information Science and Technology, The University of Tokyo
+    * Advisor: Prof. Yoichi Sato
+* **[2018.03]** B.S. in Engineering, The University of Tokyo
+    * Advisor: Prof. Yoshihiro Kawahara
 
 ## Research and Professional Experience
-**Cooperative Research Fellow, The University of Tokyo, Apr. 2026 – Present**
-* Collaborative research on human gaze and computer vision within the Yoichi Sato Laboratory.
 
-**Researcher, Mantra Inc., Dec. 2025 – Present**
-* Developing "Mantra Engine" for automated manga translation.
-
-**Visiting Ph.D. Researcher, PUI Group, University of Stuttgart, Apr. 2024 – Oct. 2024**
-* PI: Prof. Dr. Andreas Bulling
-* Research on human activity analysis and gaze behavior modeling.
-
-**Research Intern, CyberAgent Inc., Aug. 2022 - Dec. 2023**
-* Mentor: Dr. Wataru Shimoda (Creative Research Team)
-* Researched automatic image cropping under various design constraints.
-
-**Research Intern, OMRON SINIC X Corp., Oct. 2022 – Sep. 2023**
-* Mentors: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida
-* Researched action generation and behavioral modeling for sports robots.
-
-**Master Researcher, The University of Tokyo, Apr. 2020 – Mar. 2021** 
-* Contributed to the Ego4D and GO-Finder projects and lab management.
-
-**Engineering Intern, VOYAGE GROUP Inc. (now CARTA HOLDINGS), Aug. 2018**
-* Engaged in web front-end development and system engineering.
+* **[2026.04 – Present]** Cooperative Research Fellow, The University of Tokyo
+    * Collaborative research on human gaze and computer vision within the Yoichi Sato Laboratory.
+* **[2025.12 – Present]** Researcher, Mantra Inc.
+    * Developing "Mantra Engine" for automated manga translation.
+* **[2024.04 – 2024.10]** Visiting Ph.D. Researcher, PUI Group, University of Stuttgart
+    * PI: Prof. Dr. Andreas Bulling | Research on human activity analysis and gaze behavior modeling.
+* **[2022.08 – 2023.12]** Research Intern, CyberAgent Inc.
+    * Mentor: Dr. Wataru Shimoda (Creative Research Team) | Image cropping under design constraints.
+* **[2022.10 – 2023.09]** Research Intern, OMRON SINIC X Corp.
+    * Mentors: Dr. Kazutoshi Tanaka and Dr. Shigeo Yoshida | Action generation for sports robots.
+* **[2020.04 – 2021.03]** Master Researcher, The University of Tokyo
+    * Contributed to the Ego4D and GO-Finder projects and lab management.
+* **[2018.08]** Engineering Intern, VOYAGE GROUP Inc. (now CARTA HOLDINGS)
+    * Engaged in web front-end development and system engineering.
 
 ## Selected Publications
 
