@@ -28,7 +28,7 @@ Takumi Nishiyasu is a Cooperative Research Fellow at the Institute of Industrial
 **Engineering Intern, Mantra Inc., Dec. 2025 – Present**
 * Developing "Mantra Engine" for automated manga translation.
 
-**Visiting Ph.D. Researcher, PUI Group, University of Stuttgart, Germany, Apr. 2024 – Oct. 2024**
+**Visiting Ph.D. Researcher, PUI Group, University of Stuttgart, Apr. 2024 – Oct. 2024**
 * PI: Prof. Dr. Andreas Bulling
 * Research on human activity analysis and gaze behavior modeling.
 
