@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Takumi Nishiyasu is a Researcher at Mantra Inc. and a Cooperative Research Fellow at the Institute of Industrial Science, The University of Tokyo. He completed the doctoral course requirements at the University of Tokyo in March 2026 and is currently a Ph.D. candidate scheduled for his dissertation defense in July 2026. His research focuses on computer vision, gaze behavior analysis, and multimedia understanding.
+Takumi Nishiyasu is a Researcher at Mantra Inc. He completed the doctoral course requirements at The University of Tokyo in March 2026 and received his Ph.D. in Information Science and Technology in September 2026. His research focuses on computer vision, gaze behavior analysis, and multimedia understanding.
 
 ## Education
 
-**[2026.07 (Expected)] Ph.D. in Information Science and Technology, The University of Tokyo**  
+**[2026.09] Ph.D. in Information Science and Technology, The University of Tokyo**  
 [2026.03] Completed doctoral course requirements without dissertation<br>
 Supervisor: Prof. Yoichi Sato<br>
-Thesis: *Multi-Layered Alignment for Understanding the Relationship between Task and Gaze*
+Dissertation: *Multi-Layered Alignment for Understanding the Relationship between Task and Gaze*
 
 **[2020.03] M.S. in Information Science and Technology, The University of Tokyo**  
 Supervisor: Prof. Yoichi Sato<br>
