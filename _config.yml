@@ -10,7 +10,7 @@ locale                   : "ja-JP"
 title                    : "Takumi Nishiyasu / （西保　匠）"
 title_separator          : "-"
 name                     : &name "Takumi Nishiyasu / （西保　匠）"
-description              : &description "Cooperative Research Fellow at The University of Tokyo"
+description              : &description "Mantra Inc."
 url                      : https://nishiyasu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nishiyasu/nishiyasu.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Takumi Nishiyasu"
+  name             : "Takumi Nishiyasu, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Cooperative Research Fellow at The University of Tokyo"
+  bio              : "Mantra Inc."
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
